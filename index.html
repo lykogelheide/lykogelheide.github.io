@@ -93,10 +93,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Blog.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./AboutMe.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
@@ -123,12 +119,13 @@ ul.task-list li input[type="checkbox"] {
 </header><main class="content column-page" id="quarto-document-content">
 <!--
 To update the website, write in Terminal:
+quarto publish gh-pages
+If this does not work:
 1. quarto render
 2. git status (there should be a list of changed files)
-3. git add [include changed files from git status]
+3. git add .
 4. git commit -m "brief description"
 5. git push
-6. quarto publish gh-pages
 -->
 <div class="quarto-layout-panel" data-layout="[[1,2], [1.5,2,1]]">
 <div class="quarto-layout-row">
@@ -143,8 +140,8 @@ luca[dot]kogelheide[at]iab[dot]de</p>
 </section>
 <section id="about" class="level3 quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
 <h3 data-anchor-id="about">About</h3>
-<p>I am a <em>quantitative methodologist</em> fascinated by how we can reliably measure social and behavioral phenomena. Driven by the conviction that meaningful empirical research should be as <em>rigorous</em> and <em>trustworthy</em> as the public expects it to be, I am dedicated to fostering an open, transparent, and methodologically robust research culture in the social sciences. Working at the intersection of <em>statistics</em> and <em>survey methodology</em>, my research is guided by a commitment to strengthening the credibility of empirical findings through rigorous analytic approaches and high-quality data.<br>
-My own research focuses on <em>survey statistics</em> and <em>data quality</em>, with a current focus on improving longitudinal labor market panel data. I currently pursue a <em>PhD in Social Data Science &amp; Research Methodology</em> at the Institute for Employment Research (IAB) and the University of Mannheim. My supervisors are Prof.&nbsp;Joe Sakshaug (IAB, LMU Munich) and Prof.&nbsp;Florian Keusch (Chair Social Data Science, University of Mannheim). I hold a Research Master’s in Statistics and Methodology, with a specialization in official statistics, including the European Master of Official Statistics, as well as a Bachelor’s degree in Psychology from the University of Witten/Herdecke.</p>
+<p>I am a <em>quantitative methodologist</em> interested in how we can reliably measure social and behavioral phenomena. Being convinced that meaningful empirical research should be as <em>rigorous</em> and <em>trustworthy</em> as the public expects it to be, my aim is to play a part in fostering an open, reproducible, and methodologically robust research culture in the social sciences. I want to help strengthening the credibility of empirical findings by drawing from my knowledge of <em>statistics</em> and <em>survey methodology</em> to provide high-quality data and robust workflows for researchers.<br>
+My own research focuses on <em>survey statistics</em> and <em>data quality</em>, with a current focus on improving longitudinal labor market panel data. I currently pursue a <em>PhD in Social Data Science &amp; Research Methodology</em> at the Institute for Employment Research (IAB) and the University of Mannheim. I hold a Research Master’s in Methodology and Statistics, with a specialization in official statistics, including the European Master of Official Statistics, as well as a Bachelor’s degree in Psychology from the University of Witten/Herdecke.</p>
 </section>
 </div>
 <div class="quarto-layout-row">
@@ -153,8 +150,7 @@ My own research focuses on <em>survey statistics</em> and <em>data quality</em>,
 <ul>
 <li>(Panel) Survey Methodology</li>
 <li>Data Quality</li>
-<li>Official Statistics</li>
-<li>Open Science</li>
+<li>Metascience</li>
 <li>Philosophy of Statistics</li>
 </ul>
 </section>
@@ -259,7 +255,7 @@ My own research focuses on <em>survey statistics</em> and <em>data quality</em>,
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lykogelheide\.github\.io\/MyWebpage\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
