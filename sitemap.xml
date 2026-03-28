@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lykogelheide.github.io/footer.html</loc>
+    <lastmod>2026-03-28T19:53:04.962Z</lastmod>
+  </url>
+  <url>
     <loc>https://lykogelheide.github.io/index.html</loc>
-    <lastmod>2026-03-28T17:13:57.273Z</lastmod>
+    <lastmod>2026-03-28T20:02:58.389Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lykogelheide.github.io/Research.html</loc>
+    <lastmod>2026-03-28T21:36:00.555Z</lastmod>
   </url>
   <url>
     <loc>https://lykogelheide.github.io/AboutMe.html</loc>
-    <lastmod>2026-03-28T17:50:50.587Z</lastmod>
+    <lastmod>2026-03-28T19:39:06.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lykogelheide.github.io/CV.html</loc>
+    <lastmod>2026-03-28T21:35:02.372Z</lastmod>
   </url>
 </urlset>
