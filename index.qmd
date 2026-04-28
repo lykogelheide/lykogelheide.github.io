@@ -1,11 +1,16 @@
 ---
-title: "Luca Y. Kogelheide"
+title: "Hi! I'm Luca."
+subtitle: "I study panel survey errors as causal processes and develop identification strategies for estimating their effects on substantive survey measures."
+email-obfuscation: javascript
 about:
   template: jolla
   links:
-    - icon: Briefcase
+    - icon: building-fill
       text: IAB
       href: https://iab.de/en/employee/kogelheide-luca/
+    - icon: envelope-fill
+      text: E-Mail
+      href: mailto:luca.kogelheide@iab.de
     - icon: twitter-x
       text: Twitter
       href: https://x.com/LYKogelheide
@@ -18,6 +23,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lykogelheide
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0000-6724-0779
 page-layout: full
 format:
   html:
@@ -38,43 +45,23 @@ If this does not work:
 5. git push
 -->
 
-::: {layout="[[1,2], [1.5,2,1]]"}
+::: {layout="[[1,1.5,1.5]]"}
+
+![](Profilbild.jpeg){width="150px" style="border-radius: 10px;"}
 
 ### Contact
 
-![My portrait](Profilbild.jpeg){width="150px" style="border-radius: 10px;"}  
 **Luca Y. Kogelheide**  
 PhD Student in Social Data Science  
 Institute of Employment Research  
 University of Mannheim  
 luca[dot]kogelheide[at]iab[dot]de  
 
-### About
-
-I am a *quantitative methodologist* fascinated by how we can reliably measure social and behavioral phenomena. Driven by the conviction that meaningful empirical research should be as *rigorous* and *trustworthy* as the public expects it to be, I am dedicated to fostering an open, transparent, and methodologically robust research culture in the social sciences. Working at the intersection of *statistics* and *survey methodology*, my research is guided by a commitment to strengthening the credibility of empirical findings through rigorous analytic approaches and high-quality data.  
-My own research focuses on *survey statistics* and *data quality*, with a current focus on improving longitudinal labor market panel data. I currently pursue a *PhD in Social Data Science & Research Methodology* at the Institute for Employment Research (IAB) and the University of Mannheim. My supervisors are Prof. Joe Sakshaug (IAB, LMU Munich) and Prof. Florian Keusch (Chair Social Data Science, University of Mannheim). I hold a Research Master’s in Statistics and Methodology, with a specialization in official statistics, including the European Master of Official Statistics, as well as a Bachelor’s degree in Psychology from the University of Witten/Herdecke.
-
-
-
 ### Interests  
 
 - (Panel) Survey Methodology
 - Data Quality
-- Official Statistics
-- Open Science
+- Metascience
 - Philosophy of Statistics
 
-### Education   
-
-<i class="bi bi-mortarboard-fill"></i>
-PhD in Social Data Science (ongoing)<br>
-<span style="font-size: 0.8em;">Institute for Employment Research (IAB) &amp; University of Mannheim</span>  
-<i class="bi bi-mortarboard-fill"></i>
-Research Master in Statistics and Methodology (European Master in Official Statistics) 2023–2025<br>
-<span style="font-size: 0.8em;">Utrecht University (Statistics Netherlands)</span>  
-<i class="bi bi-mortarboard-fill"></i>
-Bachelor in Psychology 2020–2023<br>
-<span style="font-size: 0.8em;">University of Witten/Herdecke</span>
-
-###  
 :::

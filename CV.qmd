@@ -1,0 +1,128 @@
+---
+title: "Luca Kogelheide"
+author: 
+  - name: "Luca Kogelheide"
+    email: luca.kogelheide@iab.de
+    affiliations: 
+        - Institute of Employment Reserach (IAB)
+        - University of Mannheim
+    orcid: 0009-0000-6724-0779
+    url: https://www.linkedin.com/in/luca-kogelheide/
+bibliography: publications.bib
+citeproc: true
+toc: false
+date: last-modified
+date-meta: last-modified
+format:
+  html: 
+    theme: cosmo
+    page-layout: article
+    default-image-extension: svg
+  pdf:
+    documentclass: article
+    papersize: a4
+    default-image-extension: tex
+    pdf-engine: pdflatex
+
+---
+
+---
+
+::: {.content-visible when-format="pdf"}
+
+---
+
+### Contact:
+Institute of Employment Research/Institut für Arbeitsmarkt- und Berufsforschung  
+Regensburger Straße 104  
+90478 Nürnberg (Germany)  
+luca[dot]kogelheide[at]iab[dot]de
+:::
+
+
+:::: {.content-visible when-format="html"}
+::::: {.columns style="display: flex; align-items: center;"}
+
+::: {.column width="17%"}
+![](Profilbild.jpeg){width="150px" style="border-radius: 10px;"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="78%"}
+Luca Kogelheide is a quantitative methodologist and PhD student at the Institute of Employment Research (IAB), Germany. He studied Psychology (B.Sc.) at the University of Witten/Herdecke from 2020 to 2023. From 2023 to 2025, he completed the research master's programme "Methodology and Statistics for the Behavioral, Biomedical and Social Sciences" (M.Sc.) at Utrecht University, including the European Master in Official Statistics in cooperation with Statistics Netherlands.  
+Since October 2025, he has been a PhD student and scholarship holder within the Graduate Programme of the IAB, as well as a researcher at the IAB's Statistical Methods Center. His research focuses on studying panel survey errors as causal processes and to develop identification strategies for estimating their effects on substantive survey measures.
+:::
+
+:::::
+::::
+
+::: {.content-visible when-format="pdf"}
+Luca Kogelheide is a quantitative methodologist and PhD student at the Institute of Employment Research (IAB), Germany. He studied Psychology (B.Sc.) at the University of Witten/Herdecke from 2020 to 2023. From 2023 to 2025, he completed the research master's programme "Methodology and Statistics for the Behavioral, Biomedical and Social Sciences" (M.Sc.) at Utrecht University, including the European Master in Official Statistics in cooperation with Statistics Netherlands.  
+Since October 2025, he has been a PhD student and scholarship holder within the Graduate Programme of the IAB, as well as a researcher at the IAB's Statistical Methods Center. His research focuses on survey statistics and data quality in labour market panel surveys, with a particular emphasis on mode effects, measurement error, and panel conditioning.
+:::
+
+
+---
+
+### Experience
+
+[2025-current]{.aside}
+<i class="bi bi-briefcase-fill"></i>
+PhD Student in Social Data Science <br>
+<span style="font-size: 0.9em;">Institute for Employment Research (IAB) &amp; University of Mannheim</span>  
+
+[2025-current]{.aside}
+<i class="bi bi-briefcase-fill"></i>
+Researcher <br>
+<span style="font-size: 0.9em;">Statistical Methods Center of the IAB</span> 
+
+[09/2024-05/2025]{.aside}
+<i class="bi bi-briefcase-fill"></i>
+Intern <br>
+<span style="font-size: 0.9em;">Statistics Netherlands</span> 
+
+[05/2024-08/2025]{.aside}
+<i class="bi bi-briefcase-fill"></i>
+Research Assistant <br>
+<span style="font-size: 0.9em;">Utrecht University - Chair of Historical Sociology</span> 
+
+[10/2021-04/2023]{.aside}
+<i class="bi bi-briefcase-fill"></i>
+Teaching Assistant <br>
+<span style="font-size: 0.9em;">University of Witten/Herdecke - Module: Personality Psychology &amp; Module: Social Psychology</span> 
+
+---
+
+### Education   
+[2025-current]{.aside}
+<i class="bi bi-mortarboard-fill"></i>
+[Graduate Programme (GradAB)](https://iab.de/en/gradab/)<br>
+<span style="font-size: 0.9em;">Institute for Employment Research (IAB) &amp; University of Mannheim</span>  
+<span style="font-size: 0.8em;">Dissertation: Improving the Reliability of Panel Survey Data for Labor Market Research: A Methodological Perspective on Mode Effects, Measurement Error, and Conditioning Bias (working title)</span> 
+
+[2023–2025]{.aside}
+<i class="bi bi-mortarboard-fill"></i>
+[Research Master in Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) [(European Master in Official Statistics)](https://ec.europa.eu/eurostat/web/european-statistical-system/programmes-and-activities/education-and-training/european-master-official-statistics)<br>
+<span style="font-size: 0.9em;">Utrecht University (Statistics Netherlands)</span>  
+<span style="font-size: 0.8em;">Master's thesis: Comparing Machine Learning and Statistical Models in Capture-Recapture Estimation: A Simulation Study on Bias and Precision</span> 
+
+[2020-2023]{.aside}
+<i class="bi bi-mortarboard-fill"></i>
+[Bachelor in Psychology](https://www.uni-wh.de/dein-studium/studienangebot/bachelor-studiengaenge/psychologie-bachelor)<br>
+<span style="font-size: 0.9em;">University of Witten/Herdecke</span>  
+<span style="font-size: 0.8em;">Bachelor's thesis: Disgust and Politics: Investigating the Causal Mechanism Between Pathogen-Avoidance and Conservatism</span> 
+
+---
+
+### Publications
+
+---
+nocite: |
+  @*
+---
+
+---
+
+### Conferences

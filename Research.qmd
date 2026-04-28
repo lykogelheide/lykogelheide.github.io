@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+### Ongoing Projects
+- Dissertation (obviously) - working title: *Improving the Reliability of Panel Survey Data for Labor Market Research: A Methodological Perspective on Mode Effects, Measurement Error, and Conditioning Bias*  
+I am being supervised by Prof. Joe Sakshaug (IAB, LMU Munich) and Prof. Florian Keusch (University of Mannheim).
+
+Furthermore, I am currently working on three interconnected projects as part of my PhD: 
+
+- *The Impact of Mode Design on Panel Retention and Survey Costs: Insights from the LPP Employee Panel.*  
+Most research on mode effects focus on cross-sectional surveys, but far less is known about the implications of shifting data collection modes within an ongoing panel. In this project, I study the consequences of transitioning from an interviewer-administered mode to a mixed-mode design in the LPP Employee Panel. I examine how this transition affects the panel’s representativeness, attrition dynamics, and response behavior over time. In addition, I analyze the long-term implications for survey costs, providing evidence on the trade-offs between data quality and budgetary constraints in large-scale panel operations.
+
+- *Analyzing Measurement Mode Effects in the LPP Employee Panel.*  
+Survey responses are shaped not only by what is asked, but by *how* it is asked. In this project, I analyze how different data collection modes influence the quality of measurement in the LPP Employee Panel. By linking survey responses with administrative records, I estimate mode-specific biases and evaluate how they affect key labor market indicators. I also assess longitudinal measurement invariance to understand whether the transition to mixed-mode data collection produces systematic differences in response behavior across waves. This work provides empirical insights into the stability and comparability of measurements across survey modes.
+
+- *Distinguishing Behavioral Change from Reporting Error: Analyzing Panel Conditioning in the IAB-OPAL Panel Study.*  
+Panel conditioning refers to the phenomenon in which repeated participation in a survey shapes respondents’ future attitudes, behaviors, or reporting patterns. Yet the empirical literature has rarely distinguished between *actual* behavioral change and changes in *reporting*. In this project, I use data from a high-frequency panel study to disentangle these two mechanisms. By utilizing an unfielded sample drawn using the same sampling procedure as the fielded sample, I can estimate the effect of panel conditioning on actual labor market behavior by comparing administrative records of these two samples. Comparing survey responses with administrative data gets me insights about how panel conditioning affects how respondents report their labor market behavior. Distinguishing these two mechanisms is crucial for accurately interpreting dynamics in longitudinal data.

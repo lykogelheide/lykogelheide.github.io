@@ -4,20 +4,30 @@ project:
 
 website:
   title: "Luca Kogelheide"
+  description: "Personal Website of Luca Kogelheide"
+  repo-url: https://github.com/lykogelheide/lykogelheide.github.io
   navbar:
+    logo: Profilbild.jpeg
+    title: false
+    background: dark
+    foreground: light
     left:
       - href: index.qmd
-        text: Home
-      - href: Blog.qmd
-        text: Blog
+        text: Luca Kogelheide
+    right:
       - href: AboutMe.qmd
         text: "About Me"
+      - href: CV.qmd
+        text: "CV"
+      - href: Research.qmd
+        text: Research
+  
 
+page-layout: full
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
 
 

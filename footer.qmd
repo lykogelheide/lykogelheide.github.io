@@ -1,0 +1,17 @@
+---
+title: "footer"
+---
+
+::: {.footer data-page-footer="true"}
+<div style="display: flex; justify-content: center; gap: 1rem; font-size: 0.9em; margin-top: 2rem;">
+
+[{{< fa solid building >}} IAB](https://iab.de/en/employee/kogelheide-luca/) |  
+[{{< fa solid envelope >}} E-Mail](mailto:luca.kogelheide@iab.de) |  
+[{{< fa brands twitter-x >}} Twitter](https://x.com/LYKogelheide) |  
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/lykogelheide.bsky.social) |  
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/luca-kogelheide/) |  
+[{{< fa brands github >}} GitHub](https://github.com/lykogelheide) |  
+[{{< fa brands orcid >}} ORCID](https://orcid.org/0009-0000-6724-0779)
+
+</div>
+:::
