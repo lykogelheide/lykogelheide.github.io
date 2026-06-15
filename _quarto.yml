@@ -5,7 +5,7 @@ project:
 website:
   title: "Luca Kogelheide"
   description: "Personal Website of Luca Kogelheide"
-  repo-url: https://github.com/lykogelheide/lykogelheide.github.io
+  repo-url: https://github.com/lykogelheide/MyWebpage
   navbar:
     logo: Profilbild.jpeg
     title: false
