@@ -21,6 +21,10 @@ website:
         text: "CV"
       - href: Research.qmd
         text: Research
+      - icon: bi-box-arrow-up-right
+        href: https://lykogelheide.github.io/blog/
+        text: Blog
+      
   
 
 page-layout: full
